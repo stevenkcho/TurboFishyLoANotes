@@ -15,6 +15,7 @@
 ## Positions
 Each party select positions in 1, 5, 7, 11 ('X' formation)
 ![Pre-Fight Positions](./Gate%201%20Gate%20Positions.PNG)
+
 Technically 'x3 + 1' formation
 
 ## TL;DR
@@ -33,9 +34,27 @@ Technically 'x3 + 1' formation
 
 
 # Gate 2
-## HP Thresholds
+## All HP Thresholds
+- 145 : Deskaluda
+- 120 : Purple-Fold / Red-Unfold
+- 95  : Deskaluda
+- 80  : Walls
+- 65  : Black / Red Orbs
+- 50  : Walls
+- 25  : Deskaluda
+- 15  : Walls
+  
+## Wipe HP Thresholds
 - 120 : Purple-Fold / Red-Unfold
 - 65  : Black / Red Orbs
+
+## Minor HP Thresholds
+- 145 : Deskaluda
+- 95  : Deskaluda
+- 80  : Walls
+- 50  : Walls
+- 25  : Deskaluda
+- 15  : Walls
 
 ## Recommended Battle Items
 - DPS Push
@@ -64,4 +83,28 @@ Technically 'x3 + 1' formation
   - '11-1', '11-2', and '11-3'
 - '7-3' or '11-3' flex to '5-3' if needed
 
+## TL;DR
+- 120 Bar Mechanic - Position 1 (3 / 7 / 11 and '+')
+  - 3/7/11 check clone for 0-folded / 1-folded / 2-folded wings
+  - '+' - everyone picks up orb and checks for purple / red
+    - check if purple more or red more
+  - Red More : 0-Fold > 1-Fold > 2-Fold
+  - Purple More : 2-Fold > 1-Fold > 0-Fold
+  - 11 - usually 1-Fold
+    - if NOT 1-Fold, 3 is 1-Fold
+- 65 Bar Mechanic - Position 2 (5 / 7 / 11)
+  - 5 Red or Black pulses
+  - Remember order
+  - Corresponding black pulse orbs are safe
+  - 2 positions will have 3 black orbs, and 1 will have 2
+    - if 5 has 3 black orbs, either '7-3' or '11-3' will need to flex to '5-3'
+  - If some people are dead, use timestop or splendid panacea's
+- Deskaluda
+  - Go out as far as you can
+  - Once generally spaced, start walking clockwise with everyone
+
 # Gate 3
+## Recommended Battle Items
+- Timestop Potion
+- Whirlwind Grenade
+- Sleep Bomb
